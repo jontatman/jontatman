@@ -1,5 +1,5 @@
 - Hello, my name is Jon.
-- I’m interested in history, mythology, religion, theology, philosophy, and technology...
+- I’m interested in history, mythology, religion, theology, philosophy, and technology.
 - Currently, I'm learning more about AI, ML, algorithms, etc.
 - Contact info:  https://www.linkedin.com/in/jontatman/
 
